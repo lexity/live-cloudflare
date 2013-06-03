@@ -1,0 +1,25 @@
+{
+  "name": "Lexity Live",
+  "description": "Free visitor tracking, analytics and insights for ecommerce",
+  "version": "0.1",
+  "category": "analytics",
+  "main": "main.js",
+  "config":{
+    "details":{
+      "Language": "English",
+      "Price": "Free",
+      "Restrictions": "None",
+      "TOS":"http://lexity.com/terms",
+      "has_js": true
+    },
+    "assets":{
+      "logos": {
+        "200px": "./live-icon-200x200.png",
+        "132px": "./live-icon-132x132.png"
+      }
+    },
+    "interface": []
+  },
+  "account": {},
+  "billing": {}
+}
