@@ -16,7 +16,10 @@
       "logos": {
         "200px": "./live-icon-200x200.png",
         "132px": "./live-icon-132x132.png"
-      }
+      },
+      "detail_page" : [
+        "./live-homepage.png"
+      ]
     },
     "interface": []
   },
