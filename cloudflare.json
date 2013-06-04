@@ -23,6 +23,9 @@
     },
     "interface": []
   },
-  "account": {},
+  "account": {
+    "callback_url": "http://lexity.com/cloudflare",
+    "user_fields": ["email"]
+  },
   "billing": {}
 }
