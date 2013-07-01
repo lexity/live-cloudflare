@@ -1,4 +1,4 @@
-![Lexity Live home page](live-homepage.png)
+![Lexity Live homepage](/images/apps/lexity_live/live-homepage.png "The Lexity Live homepage")
 
 Lexity Live is a free real-time visitor tracking tool for online stores that lets you see who is in your store NOW, what pages they are viewing, which products they are putting in the shopping cart, and more.
 
