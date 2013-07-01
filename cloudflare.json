@@ -1,7 +1,7 @@
 {
   "name": "Lexity Live",
   "description": "Free visitor tracking, analytics and insights for ecommerce",
-  "version": "0.1",
+  "version": "0.2",
   "category": "analytics",
   "main": "main.js",
   "config":{
